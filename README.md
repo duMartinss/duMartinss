@@ -13,7 +13,7 @@ Sou um desenvolvedor de software com [2] anos de experiência em [desenvolviment
 
 ## Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide=prs&theme=dark)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=duMartinss&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide=prs&theme=dark)
 
 ## Linguagens e Tecnologias
 
