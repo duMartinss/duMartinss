@@ -17,7 +17,7 @@ Sou um desenvolvedor de software com [2] anos de experiência em [desenvolviment
 
 ## Linguagens e Tecnologias
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dark)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=duMartinss&layout=compact&theme=dark)
 
 ## Projetos Destacados
 
