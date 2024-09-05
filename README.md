@@ -4,7 +4,6 @@
 
 Sou um desenvolvedor de software com [2] anos de experiência em [desenvolvimento web, desenvolvimento mobile]. Minha paixão por tecnologia e inovação me leva a buscar soluções criativas e eficientes para problemas complexos. Sou proficiente em várias linguagens de programação e plataformas, e estou sempre atualizado com as últimas tendências e melhores práticas da indústria.
 
-Tecnologias e Ferramentas
 
 ## Tecnologias e Ferramentas
 
