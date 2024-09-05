@@ -9,26 +9,26 @@ Tecnologias e Ferramentas
 ## Tecnologias e Ferramentas
 
 - **Linguagens de Programação**:
-  - <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/html5.svg" alt="HTML5" width="40" height="40"/>
-  - <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/css3.svg" alt="CSS3" width="40" height="40"/>
-  - <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/javascript.svg" alt="JavaScript" width="40" height="40"/>
-  - <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg" alt="Python" width="40" height="40"/>
-  - <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/sqlite.svg" alt="SQL" width="40" height="40"/>
+  - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  - ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  - ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  - ![SQL](https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 - **Frameworks e Bibliotecas**:
-  - <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/django.svg" alt="Django" width="40" height="40"/>
-  - <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/react.svg" alt="React" width="40" height="40"/>
-  - <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/react.svg" alt="React Native" width="40" height="40"/>
-  - <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/node-dot-js.svg" alt="Node.js" width="40" height="40"/>
+  - ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+  - ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  - ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  - ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 - **Plataformas e Ferramentas**:
-  - <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" alt="GitHub" width="40" height="40"/>
-  - <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/visualstudiocode.svg" alt="Visual Studio Code" width="40" height="40"/>
-  - <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pycharm.svg" alt="PyCharm" width="40" height="40"/>
+  - ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+  - ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  - ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 
 - **Bancos de Dados**:
-  - <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mysql.svg" alt="MySQL" width="40" height="40"/>
-  - <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/sqlite.svg" alt="SQLite" width="40" height="40"/>
+  - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  - ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ## Estatísticas do GitHub
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=duMartinss&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide=prs&theme=dark)
