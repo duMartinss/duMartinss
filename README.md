@@ -46,7 +46,7 @@ Descrição breve do projeto, incluindo as tecnologias usadas e o impacto ou obj
 ## Experiência Profissional
 
 ### [COFCO International](https://br.cofcointernational.com/)
-**[Estágio]** - [Data de Início] a [Data de Término]
+**[Auxiliar de Escritório em Geral]** - [10/04/2024] a [17/12/2024]
 
 - Sou estágiario da empresa COFCO.
 
