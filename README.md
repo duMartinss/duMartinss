@@ -42,48 +42,25 @@ Tecnologias e Ferramentas
 ### [Nome do Projeto 1](link-do-projeto)
 Descrição breve do projeto, incluindo as tecnologias usadas e o impacto ou objetivos principais.
 
-### [Nome do Projeto 2](link-do-projeto)
-Descrição breve do projeto, incluindo as tecnologias usadas e o impacto ou objetivos principais.
-
-### [Nome do Projeto 3](link-do-projeto)
-Descrição breve do projeto, incluindo as tecnologias usadas e o impacto ou objetivos principais.
 
 ## Experiência Profissional
 
-### [Nome da Empresa](link-para-o-site-da-empresa)
-**[Seu Cargo]** - [Data de Início] a [Data de Término]
+### [COFCO International](https://br.cofcointernational.com/)
+**[Estágio]** - [Data de Início] a [Data de Término]
 
-- Descrição das responsabilidades e conquistas principais.
-- Tecnologias e ferramentas usadas.
-
-### [Nome da Empresa](link-para-o-site-da-empresa)
-**[Seu Cargo]** - [Data de Início] a [Data de Término]
-
-- Descrição das responsabilidades e conquistas principais.
-- Tecnologias e ferramentas usadas.
+- Sou estágiario da empresa COFCO.
 
 ## Educação
 
-**[Nome do Curso]** - [Nome da Instituição]  
-[Data de Início] a [Data de Término]
+**[Técnico em Desenvolvimento de Sistemas]** - [SENAI]  
+[20/02/2023] a [17/12/2024]
 
-- Principais cursos e áreas de estudo.
-
-## Certificações
-
-- **[Nome da Certificação]** - [Instituição]  
-  [Data de Conclusão]
-
-- **[Nome da Certificação]** - [Instituição]  
-  [Data de Conclusão]
 
 ## Entre em Contato
 
-- [LinkedIn](https://www.linkedin.com/in/seu-perfil/)
-- [Twitter](https://twitter.com/seu-usuario)
-- [Email](mailto:seu-email@exemplo.com)
-- [Website/Portfólio](https://seu-website.com) (se aplicável)
+- [LinkedIn](https://www.linkedin.com/in/duMartinss/)
+- [Email](mailto:duduestevesmartins@gmail.com)
 
 ---
 
-Desenvolvido com paixão por [Seu Nome] 🧑‍💻
+Desenvolvido por [Eduardo Martins] 🧑‍💻
