@@ -1,15 +1,15 @@
-# [Seu Nome] - Desenvolvedor de Software
+# [Eduardo Esteves Martins] - Desenvolvedor FullStack
 
 ## Sobre Mim
 
-Sou um desenvolvedor de software com [X] anos de experiência em [sua área de especialização, ex.: desenvolvimento web, ciência de dados, engenharia de software]. Minha paixão por tecnologia e inovação me leva a buscar soluções criativas e eficientes para problemas complexos. Sou proficiente em várias linguagens de programação e plataformas, e estou sempre atualizado com as últimas tendências e melhores práticas da indústria.
+Sou um desenvolvedor de software com [2] anos de experiência em [desenvolvimento web, desenvolvimento mobile]. Minha paixão por tecnologia e inovação me leva a buscar soluções criativas e eficientes para problemas complexos. Sou proficiente em várias linguagens de programação e plataformas, e estou sempre atualizado com as últimas tendências e melhores práticas da indústria.
 
 ## Tecnologias e Ferramentas
 
-- **Linguagens de Programação**: Python, JavaScript, Java, C++, C#
-- **Frameworks e Bibliotecas**: React, Node.js, Django, Flask, Spring
-- **Plataformas e Ferramentas**: GitHub, Docker, AWS, Kubernetes, Jenkins
-- **Bancos de Dados**: PostgreSQL, MongoDB, MySQL, SQLite
+- **Linguagens de Programação**: HTML5, CSS, JavaScript, Python, SQL
+- **Frameworks e Bibliotecas**: Django, React, React Native, Node.js
+- **Plataformas e Ferramentas**: GitHub, Visual Studio Code, PyCharm
+- **Bancos de Dados**: MySQL, SQLite
 
 ## Estatísticas do GitHub
 
