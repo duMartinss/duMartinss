@@ -18,7 +18,7 @@ Tecnologias e Ferramentas
 - **Frameworks e Bibliotecas**:
   - <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/django.svg" alt="Django" width="40" height="40"/>
   - <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/react.svg" alt="React" width="40" height="40"/>
-  - <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/react.svg" alt="React Native" width="40" height="40"/> <!-- Usando o mesmo ícone do React -->
+  - <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/react.svg" alt="React Native" width="40" height="40"/>
   - <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/node-dot-js.svg" alt="Node.js" width="40" height="40"/>
 
 - **Plataformas e Ferramentas**:
