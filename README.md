@@ -9,26 +9,26 @@ Tecnologias e Ferramentas
 ## Tecnologias e Ferramentas
 
 - **Linguagens de Programação**:
-  - ![HTML5](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/html5.svg)
-  - ![CSS3](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/css3.svg)
-  - ![JavaScript](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/javascript.svg)
-  - ![Python](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg)
-  - ![SQL](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/sqlite.svg)
+  - <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/html5.svg" alt="HTML5" width="40" height="40"/>
+  - <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/css3.svg" alt="CSS3" width="40" height="40"/>
+  - <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/javascript.svg" alt="JavaScript" width="40" height="40"/>
+  - <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg" alt="Python" width="40" height="40"/>
+  - <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/sqlite.svg" alt="SQL" width="40" height="40"/>
 
 - **Frameworks e Bibliotecas**:
-  - ![Django](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/django.svg)
-  - ![React](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/react.svg)
-  - ![React Native](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/react.svg) <!-- Usando o mesmo ícone do React -->
-  - ![Node.js](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/node-dot-js.svg)
+  - <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/django.svg" alt="Django" width="40" height="40"/>
+  - <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/react.svg" alt="React" width="40" height="40"/>
+  - <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/react.svg" alt="React Native" width="40" height="40"/> <!-- Usando o mesmo ícone do React -->
+  - <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/node-dot-js.svg" alt="Node.js" width="40" height="40"/>
 
 - **Plataformas e Ferramentas**:
-  - ![GitHub](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg)
-  - ![Visual Studio Code](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/visualstudiocode.svg)
-  - ![PyCharm](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pycharm.svg)
+  - <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" alt="GitHub" width="40" height="40"/>
+  - <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/visualstudiocode.svg" alt="Visual Studio Code" width="40" height="40"/>
+  - <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pycharm.svg" alt="PyCharm" width="40" height="40"/>
 
 - **Bancos de Dados**:
-  - ![MySQL](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mysql.svg)
-  - ![SQLite](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/sqlite.svg)
+  - <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mysql.svg" alt="MySQL" width="40" height="40"/>
+  - <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/sqlite.svg" alt="SQLite" width="40" height="40"/>
 ## Estatísticas do GitHub
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=duMartinss&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide=prs&theme=dark)
