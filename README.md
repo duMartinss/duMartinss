@@ -29,7 +29,6 @@ Tecnologias e Ferramentas
 - **Bancos de Dados**:
   - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
   - ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-  - 
 ## Estatísticas do GitHub
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=duMartinss&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide=prs&theme=dark)
