@@ -41,7 +41,7 @@ Sou um desenvolvedor de software com [2] anos de experiência em [desenvolviment
 ### [Meu Portfólio](https://dumartinss.github.io/Meu-Portfolio/)
 Meu portfólio contendo um pouco sobre mim, minhas linguagens de programação, serviços que posso oferecer e minhas redes sociais.
 
-### [Trade.Agile](https://dumartinss.github.io/Meu-Portfolio/)
+### [Trade.Agile](https://github.com/duMartinss/tradeAgile)
 Meu portfólio contendo um pouco sobre mim, minhas linguagens de programação, serviços que posso oferecer e minhas redes sociais.
 
 
