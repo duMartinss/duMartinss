@@ -45,7 +45,7 @@ Meu portfólio contendo um pouco sobre mim, minhas linguagens de programação, 
 Aplicativo em React Native feito no curso de Técnico em Desenvolvimento de Sistemas, no SENAI.
 
 ### [](https://github.com/duMartinss/tradeAgile)
-Aplicativo em React Native feito no curso de Técnico em Desenvolvimento de Sistemas, no SENAI.
+Projeto desenvolvido em Django, no curso Técnico em Desenvolvimento de Sistemas, no SENAI.
 
 
 ## Experiência Profissional
