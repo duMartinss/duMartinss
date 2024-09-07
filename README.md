@@ -38,8 +38,8 @@ Sou um desenvolvedor de software com [2] anos de experiência em [desenvolviment
 
 ## Projetos Destacados
 
-### [Nome do Projeto 1](link-do-projeto)
-Descrição breve do projeto, incluindo as tecnologias usadas e o impacto ou objetivos principais.
+### [Meu Portfólio]([link-do-projeto](https://dumartinss.github.io/Meu-Portfolio/))
+Meu portfólio contendo um pouco sobre mim, minhas linguagens de programação, serviços que posso oferecer e minhas redes sociais.
 
 
 ## Experiência Profissional
