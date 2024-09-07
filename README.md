@@ -38,7 +38,7 @@ Sou um desenvolvedor de software com [2] anos de experiência em [desenvolviment
 
 ## Projetos Destacados
 
-### [Meu Portfólio] [Clique aqui!](https://dumartinss.github.io/Meu-Portfolio/)
+### [Meu Portfólio](https://dumartinss.github.io/Meu-Portfolio/)
 Meu portfólio contendo um pouco sobre mim, minhas linguagens de programação, serviços que posso oferecer e minhas redes sociais.
 
 
