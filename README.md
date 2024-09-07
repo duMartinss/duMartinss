@@ -57,7 +57,7 @@ Descrição breve do projeto, incluindo as tecnologias usadas e o impacto ou obj
 
 ## Entre em Contato
 
-- [LinkedIn](https://www.linkedin.com/in/duMartinss/)
+- [LinkedIn](https://www.linkedin.com/in/eduardo-martins-524102253/)
 - [Email](mailto:duduestevesmartins@gmail.com)
 
 ---
