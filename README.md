@@ -39,7 +39,7 @@ Sou um desenvolvedor de software com [2] anos de experiência em [desenvolviment
 ## Projetos Destacados
 
 ### [TCC - Senai](https://github.com/duMartinss/Django-Senai)
-[É com muito orgulho que destaco o meu Trabalho de Conclusão de Curso em Técnico em Desenvolvimento de Sistemas no Senai. Ele constitui em um aplicatico de cursos livre do Senai de São José do Rio Preto. O usuário pode fazer o cadastro, logar e vizualizar os cursos disponíveis e entra em contato com o Senai para fazer sua inscrição. Temos também a parte do Administrador onde ele pode inativar usuarios, adicionar/editar cursos, inativar e muito mais.]
+É com muito orgulho que destaco o meu Trabalho de Conclusão de Curso em Técnico em Desenvolvimento de Sistemas no Senai. Ele constitui em um aplicatico de cursos livre do Senai de São José do Rio Preto. O usuário pode fazer o cadastro, logar e vizualizar os cursos disponíveis e entra em contato com o Senai para fazer sua inscrição. Temos também a parte do Administrador onde ele pode inativar usuarios, adicionar/editar cursos, inativar e muito mais.
 
 ### [Meu Portfólio](https://dumartinss.github.io/Meu-Portfolio/)
 Meu portfólio contendo um pouco sobre mim, minhas linguagens de programação, serviços que posso oferecer e minhas redes sociais.
@@ -48,7 +48,7 @@ Meu portfólio contendo um pouco sobre mim, minhas linguagens de programação, 
 Aplicativo em React Native feito no curso de Técnico em Desenvolvimento de Sistemas, no SENAI.
 
 ### [AcademiaBoxe](https://github.com/duMartinss/Django-Senai)
-[Projeto desenvolvido em Django, no curso Técnico em Desenvolvimento de Sistemas, no SENAI.]
+Projeto desenvolvido em Django, no curso Técnico em Desenvolvimento de Sistemas, no SENAI.
 
 
 ## Experiência Profissional
