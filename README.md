@@ -38,7 +38,7 @@ Sou um desenvolvedor de software com [2] anos de experiência em [desenvolviment
 
 ## Projetos Destacados
 
-### [TCC - Senai]((https://github.com/duMartinss/TCC)
+### [TCC - Senai](https://github.com/duMartinss/TCC)
 É com muito orgulho que destaco o meu Trabalho de Conclusão de Curso em Técnico em Desenvolvimento de Sistemas no Senai. Ele constitui em um aplicatico de cursos livre do Senai de São José do Rio Preto. O usuário pode fazer o cadastro, logar e vizualizar os cursos disponíveis e entra em contato com o Senai para fazer sua inscrição. Temos também a parte do Administrador onde ele pode inativar usuarios, adicionar/editar cursos, inativar e muito mais.
 
 ### [Meu Portfólio](https://dumartinss.github.io/Meu-Portfolio/)
