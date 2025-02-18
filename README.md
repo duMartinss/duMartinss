@@ -66,9 +66,6 @@ Projeto desenvolvido em Django, no curso Técnico em Desenvolvimento de Sistemas
 **Ciência da Computação** - Universidade Paulista (UNIP)  
 01/02/2025 a 01/12/2029
 
-**Ciência da Computação** - Universidade Paulista (UNIP)
-01/02/2025 a 01/12/2029
-
 ## Entre em Contato
 
 - LinkedIn(https://www.linkedin.com/in/eduardo-martins-524102253/)
