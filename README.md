@@ -1,8 +1,8 @@
-# [Eduardo Esteves Martins] - Desenvolvedor FullStack
+# Eduardo Esteves Martins - Desenvolvedor FullStack
 
 ## Sobre Mim
 
-Sou um desenvolvedor de software com [2] anos de experiência em [desenvolvimento web, desenvolvimento mobile]. Minha paixão por tecnologia e inovação me leva a buscar soluções criativas e eficientes para problemas complexos. Sou proficiente em várias linguagens de programação e plataformas, e estou sempre atualizado com as últimas tendências e melhores práticas da indústria.
+Sou um recém-formado em Técnico em Desenvolvimento de Sistemas pelo SENAI - São José do Rio Preto e atualmente curso Ciência da Computação na Universidade Paulista. Possuo experiência prática no desenvolvimento de soluções tecnológicas. Meu conhecimento abrange tecnologias front-end e back-end, além de design UX/UI. Estou sempre em busca de aprimorar minhas habilidades e aprender mais sobre tecnologia da informação.
 
 
 ## Tecnologias e Ferramentas
@@ -54,20 +54,24 @@ Projeto desenvolvido em Django, no curso Técnico em Desenvolvimento de Sistemas
 ## Experiência Profissional
 
 ### [COFCO International](https://br.cofcointernational.com/)
-**[Auxiliar de Escritório em Geral]** - [10/04/2024] a [17/12/2024]
+**[Alujo Estágiario]** - 10/04/2024 a 17/12/2024
 
 - Sou estágiario da empresa COFCO.
 
 ## Educação
 
-**[Técnico em Desenvolvimento de Sistemas]** - [SENAI]  
-[20/02/2023] a [17/12/2024]
+**Técnico em Desenvolvimento de Sistemas** - SENAI  
+20/02/2023 a 17/12/2024
+
+**Ciência da Computação** - Universidade Paulista (UNIP)
+01/02/2025 a 01/12/2029
 
 
 ## Entre em Contato
 
-- [LinkedIn](https://www.linkedin.com/in/eduardo-martins-524102253/)
-- [Email](mailto:duduestevesmartins@gmail.com)
+- LinkedIn(https://www.linkedin.com/in/eduardo-martins-524102253/)
+- Email(mailto:duduestevesmartins@gmail.com)
+- WhatsApp( https://wa.me/17991077967)
 
 ---
 
