@@ -70,7 +70,7 @@ Projeto desenvolvido em Django, no curso Técnico em Desenvolvimento de Sistemas
 
 - LinkedIn(https://www.linkedin.com/in/eduardo-martins-524102253/)
 - Email(mailto:duduestevesmartins@gmail.com)
-- WhatsApp( https://wa.me/17991077967)
+- WhatsApp(https://wa.me/17991077967)
 
 ---
 
