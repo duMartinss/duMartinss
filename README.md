@@ -63,8 +63,8 @@ Projeto desenvolvido em Django, no curso Técnico em Desenvolvimento de Sistemas
 **Técnico em Desenvolvimento de Sistemas** - SENAI  
 20/02/2023 a 17/12/2024
 
-**Técnico em Desenvolvimento de Sistemas** - SENAI  
-20/02/2023 a 17/12/2024
+**Ciência da Computação** - Universidade Paulista (UNIP)  
+01/02/2025 a 01/12/2029
 
 **Ciência da Computação** - Universidade Paulista (UNIP)
 01/02/2025 a 01/12/2029
